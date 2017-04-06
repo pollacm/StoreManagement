@@ -1,0 +1,94 @@
+﻿@model StoreManagement.Areas.Stores.Models.StoreViewModel
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit Store</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        @Html.ValidationSummary(true)
+        <div class="form-group">
+            @Html.LabelFor(model => model.Store.StoreID, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <div style="margin-top: 7px">@Model.Store.StoreID</div>
+                @Html.HiddenFor(model => model.Store.StoreID)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Store.Name, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.Store.Name, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.Store.Name)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Store.StoreNumber, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.Store.StoreNumber, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.Store.StoreNumber)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Store.Address1, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.Store.Address1, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.Store.Address1)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Store.Address2, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.Store.Address2, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.Store.Address2)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Store.City, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.Store.City, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.Store.City)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Store.State, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.Store.State, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.Store.State)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Store.Zipcode, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.Store.Zipcode, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.Store.Zipcode)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Store.Status, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(m => m.Store.Status, Model.Statuses, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.Store.Status)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class="btn btn-info"/>
+                <a href="@Url.Action("Index")" class="btn btn-default">Cancel</a>
+            </div>
+        </div>
+    </div>
+}

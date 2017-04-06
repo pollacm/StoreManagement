@@ -1,0 +1,4 @@
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\StoreManagement\StoreManagement.Domain.Objects\bin\Debug\StoreManagement.Domain.Objects.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\StoreManagement\StoreManagement.Domain.Objects\bin\Debug\StoreManagement.Domain.Objects.pdb
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\StoreManagement\StoreManagement.Domain.Objects\obj\Debug\StoreManagement.Domain.Objects.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\StoreManagement\StoreManagement.Domain.Objects\obj\Debug\StoreManagement.Domain.Objects.pdb

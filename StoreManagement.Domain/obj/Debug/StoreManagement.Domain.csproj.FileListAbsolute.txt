@@ -1,0 +1,13 @@
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\StoreManagement\StoreManagement.Domain\bin\Debug\StoreManagement.Domain.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\StoreManagement\StoreManagement.Domain\bin\Debug\StoreManagement.Domain.pdb
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\StoreManagement\StoreManagement.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\StoreManagement\StoreManagement.Domain\bin\Debug\EPPlus.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\StoreManagement\StoreManagement.Domain\bin\Debug\StoreManagement.Domain.Objects.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\StoreManagement\StoreManagement.Domain\bin\Debug\StoreManagement.Repository.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\StoreManagement\StoreManagement.Domain\bin\Debug\StoreManagement.Domain.Objects.pdb
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\StoreManagement\StoreManagement.Domain\bin\Debug\StoreManagement.Repository.pdb
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\StoreManagement\StoreManagement.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\StoreManagement\StoreManagement.Domain\bin\Debug\EPPlus.xml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\StoreManagement\StoreManagement.Domain\obj\Debug\StoreManagement.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\StoreManagement\StoreManagement.Domain\obj\Debug\StoreManagement.Domain.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\StoreManagement\StoreManagement.Domain\obj\Debug\StoreManagement.Domain.pdb

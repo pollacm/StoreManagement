@@ -1,0 +1,16 @@
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\StoreManagement\StoreManagement.Repository\bin\Debug\StoreManagement.Repository.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\StoreManagement\StoreManagement.Repository\bin\Debug\StoreManagement.Repository.pdb
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\StoreManagement\StoreManagement.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\StoreManagement\StoreManagement.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\StoreManagement\StoreManagement.Repository\bin\Debug\StoreManagement.Domain.Objects.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\StoreManagement\StoreManagement.Repository\bin\Debug\StoreManagement.Domain.Objects.pdb
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\StoreManagement\StoreManagement.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\StoreManagement\StoreManagement.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\StoreManagement\StoreManagement.Repository\obj\Debug\StoreManagement.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\StoreManagement\StoreManagement.Repository\obj\Debug\StoreManagement.Repository.Migrations.AddStoreEntity.resources
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\StoreManagement\StoreManagement.Repository\obj\Debug\StoreManagement.Repository.Migrations.AddingStatusAndStoreName.resources
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\StoreManagement\StoreManagement.Repository\obj\Debug\StoreManagement.Repository.csproj.GenerateResource.Cache
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\StoreManagement\StoreManagement.Repository\obj\Debug\StoreManagement.Repository.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\StoreManagement\StoreManagement.Repository\obj\Debug\StoreManagement.Repository.pdb
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\StoreManagement\StoreManagement.Repository\bin\Debug\EPPlus.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\StoreManagement\StoreManagement.Repository\bin\Debug\EPPlus.xml
